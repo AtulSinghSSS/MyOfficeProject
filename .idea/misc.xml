@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2985" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/drawable/ic_baseline_expand_less_24.xml" value="0.293" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.2985" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2985" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2945" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/drawable/ic_baseline_visibility_off_24.xml" value="0.2985" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/drawable/ic_circle_shape.xml" value="0.2985" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/drawable/ic_circular_progress_bar.xml" value="0.2985" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/drawable/ic_doted_line.xml" value="0.2985" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/drawable/ic_dotted_line.xml" value="0.2985" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/drawable/ic_good_employee_svgrepo_com.xml" value="0.2985" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/drawable/ic_home_icon_silhouette_svgrepo_com.xml" value="0.2985" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/drawable/ic_internet_svgrepo_com.xml" value="0.2985" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2985" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/drawable/ic_toggle_bg.xml" value="0.293" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/drawable/show_password_selector.xml" value="0.2985" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/drawable/signin.xml" value="0.2985" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/drawable/toggle_list_view.xml" value="0.293" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/activity_accept.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/activity_foggot_pwd.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/activity_forgot_pwd2.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/activity_forgot_userid.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/activity_home.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/activity_login.xml" value="0.21428571428571427" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/activity_main.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/activity_main2.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/activity_signin.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/activity_signup.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/activity_splash_screen.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/activity_start_trip.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/content_signin.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/dasbord_adapter_row.xml" value="0.33" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/fragment_contact.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/fragment_forgot_pwd.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/fragment_forgot_userid.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/fragment_homepage.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/fragment_list_view.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/fragment_map.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/fragment_map1.xml" value="0.3253731343283582" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/fragment_second.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/fragment_service.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/fragment_signin.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/layout/fragment_signup.xml" value="0.26171875" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/menu/map_autocompleet_search.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/menu/menuitems.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/SK/AndroidStudioProjects/MyOfficeProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2985" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

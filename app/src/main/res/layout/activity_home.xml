@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Activity.HomeActivity">
+
+
+
+
+    <androidx.drawerlayout.widget.DrawerLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/my_drawer_layout"
+        tools:ignore="HardcodedText">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <FrameLayout
+                android:id="@+id/container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+            </FrameLayout>
+
+
+        </LinearLayout>
+
+
+        <com.google.android.material.navigation.NavigationView
+            android:id="@+id/navigationview1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            app:menu="@menu/menuitems" >
+
+        </com.google.android.material.navigation.NavigationView>
+
+
+
+    </androidx.drawerlayout.widget.DrawerLayout>
+
+
+
+
+</layout>
+
+
+
+    <!--            <android.support.design.widget.BottomNavigationView-->
+    <!--                android:id="@+id/bottom_navigation"-->
+    <!--                android:layout_width="match_parent"-->
+    <!--                android:layout_height="60dp"-->
+    <!--                android:layout_alignParentBottom="true"-->
+    <!--                android:layout_marginBottom="-1dp"-->
+    <!--                app:itemBackground="@color/teal_200"-->
+    <!--                app:itemIconTint="@android:color/white"-->
+    <!--                app:menu="@menu/menuitems" />-->
+
+    <!--                <android.support.v7.widget.RecyclerView-->
+    <!--                    android:id="@+id/dasbordRecycler"-->
+    <!--                    android:layout_width="match_parent"-->
+    <!--                    android:layout_height="match_parent" />-->

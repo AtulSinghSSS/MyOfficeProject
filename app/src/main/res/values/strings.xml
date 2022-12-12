@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyOfficeProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Forgot_UserId">Forgot UserId</string>
+    <string name="Forgot_Pwd">Forgot Password ?</string>
+    <string name="Home_page">Home Page</string>
+    <string name="New_Account">Create New Account</string>
+    <string name="Show_userid">Show UserID</string>
+    <string name="Login">LogIn page</string>
+    <string name="title_activity_signin">SigninActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>

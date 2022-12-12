@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:title="Home"
+        android:icon="@drawable/ic_home_icon_silhouette_svgrepo_com"/>
+    <item
+        android:id="@+id/contact"
+        android:title="contact"
+        android:enabled="true"
+        android:icon="@drawable/ic_good_employee_svgrepo_com"/>
+    <item
+        android:id="@+id/service"
+        android:title="services"
+        android:enabled="true"
+        android:icon="@drawable/ic_internet_svgrepo_com"/>
+
+    <item
+        android:id="@+id/LogOut"
+        android:title="LogOut"
+        android:enabled="true"/>
+
+</menu>
